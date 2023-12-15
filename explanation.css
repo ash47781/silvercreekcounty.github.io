@@ -13,12 +13,12 @@ body {
   }
   
   p {
-    height: 0px;
+    height: 10000000000000px;
     width: 600000px;
     background: blue;
     font-size: 18px;
     color: #FFF;
-    text-align: Left;
+    text-align: center;
   }
   
   .p2 {
