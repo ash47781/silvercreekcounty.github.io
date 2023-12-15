@@ -1,0 +1,87 @@
+body {
+    background-image: url(images/14thanddonna.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    opacity: 200%;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .p2 {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .topnav {
+      background-color: lightblue;
+      overflow: hidden;
+    }
+    
+    /* Style the links inside the navigation bar */
+    .topnav a {
+      float: right;
+      color: #f2f2f2;
+      text-align: left;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    /* Change the color of links on hover */
+    .topnav a:hover {
+      background-color: #c23b3b;
+      color: black;
+    }
+    
+    /* Add a color to the active/current link */
+    .topnav a.active {
+      background-color: #04AA6D;
+      color: white;
+    }
+
+    .image {
+        width: 350px;
+    }
+
+    .image img{
+        float: right;
+        margin-right: -425%;
+        width: 310px;
+        height: 163px;
+    }
+
+    .image2 {
+        width: auto;
+    }
+
+    .image2 img{
+        float: left;
+        margin-left: 0%;
+        width: auto;
+        height: auto;
+    }
+
+    .image3 {
+      width: auto;
+    }
+
+    .image3 img{
+      float: center;
+      margin-left: 10%;
+      width: auto;
+      height: auto;
+    }
+  
+    
