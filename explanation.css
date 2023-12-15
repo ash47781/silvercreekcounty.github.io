@@ -13,9 +13,8 @@ body {
   }
   
   p {
-    height: 10000000000000px;
+    height: 10000px;
     width: 1680px;
-    background: none;
     font-size: 18px;
     color: #FFF;
     text-align: center;
