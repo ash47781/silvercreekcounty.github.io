@@ -12,9 +12,13 @@ body {
     text-align: center;
   }
   
-  .p23 {
-    color: white;
-    text-align: center;
+ {
+    height: 0px;
+    width: 600000px;
+    background: blue;
+    font-size: 18px;
+    color: #FFF;
+    text-align: Left;
   }
   
   .p2 {
