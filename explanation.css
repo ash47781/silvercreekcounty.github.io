@@ -12,10 +12,11 @@ body {
     text-align: center;
   }
   
-  p {
+  .p23 {
     font-family: verdana;
     font-size: 20px;
     text-align: center;
+    color: white;
   }
   
   .p2 {
