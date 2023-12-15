@@ -33,4 +33,15 @@ body {
     color: white;
     text-align: center;
   }
+
+  .interiors {
+    width: 350px;
+}
+
+.interiors img{
+    float: center;
+    margin-left: 25%;
+    width: auto;
+    height: auto;
+}
   

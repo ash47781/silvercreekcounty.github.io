@@ -78,3 +78,25 @@ body {
       width: auto;
       height: auto;
     }
+
+    .btn {
+      background-color: rgb(185, 21, 21); /* Green */
+      border: none;
+      color: rgb(49, 214, 27);
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+
+    .btn3 {
+      background-color: rgb(185, 21, 21); /* Green */
+      border: none;
+      color: rgb(49, 214, 27);
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }

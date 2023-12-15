@@ -33,4 +33,28 @@ body {
     color: white;
     text-align: center;
   }
+
+  .pl {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+  }
+
+  .img {
+    width: auto;
+  }
+
+  .img img{
+    float: center;
+    margin-left: 23%;
+    width: auto;
+    height: auto;
+  }
   
+  .pl2 {
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+  }
