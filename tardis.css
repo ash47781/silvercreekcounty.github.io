@@ -46,15 +46,24 @@ body {
   }
 
   .interiors {
-    width: 350px;
+    width: 2500;
 }
 
 .interiors img{
-    float: center;
-    margin-left: 25%;
-    width: auto;
-    height: auto;
-}
+  height: 550px;      /* Equals maximum image height */
+  line-height: 25px;
+  width: 550px;
+  border: 1px solid red;
+  float: left;
+  margin-left: 25%;
+  }
+
+  .simexp {
+    color: white;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+  }
 
 
   
