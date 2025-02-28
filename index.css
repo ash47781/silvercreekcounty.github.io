@@ -36,7 +36,8 @@ body {
     font-family: verdana;
     font-size: 20px;
     text-align: center;
-    color:green
+    color:green;
+    top: 30%;
   }
 
     /* Style the links inside the navigation bar */
