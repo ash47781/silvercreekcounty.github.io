@@ -120,9 +120,9 @@ ul {
 
 .name {
     float: left;
-    font-size: 24px;
+    font-size: 16px;
     color: green;
-    font-weight: 9000;
+    font-weight: 450;
 }
 
 li {
