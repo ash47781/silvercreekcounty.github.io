@@ -98,7 +98,8 @@ li.dropdown {
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin-left: 22.5%;
+  top: 55%;
 }
 
 .fade {
