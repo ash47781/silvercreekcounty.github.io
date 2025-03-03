@@ -114,8 +114,12 @@ ul {
   background-color: #cf1919;
 }
 
+.logo {
+    float: left;
+}
+
 li {
-  float: left;
+  float: right;
 }
 
 li a, .dropbtn {
