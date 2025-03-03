@@ -123,9 +123,9 @@ ul {
     font-size: 25px;
     color: green;
     font-weight: 450;
-    position: fixed;
-    margin-left: 5%;
-    top:-.5%
+    margin-left: 3%;
+    position:fixed;
+    top:-6
 }
 
 li {
