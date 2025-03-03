@@ -12,7 +12,7 @@ body {
   top: 20%;
   width: 100%;
   text-align: center;
-  font-size: 18px;
+  font-size: 24px;
   color: white;
 }
   
@@ -26,7 +26,7 @@ body {
     text-align: center;
   }
   
-  p2 {
+  .p2 {
     font-family: verdana;
     font-size: 20px;
     text-align: center;
