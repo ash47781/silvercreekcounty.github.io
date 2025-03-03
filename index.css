@@ -120,6 +120,8 @@ ul {
 
 .name {
     float: left;
+    font-size: 24;
+    color: green;
 }
 
 li {
