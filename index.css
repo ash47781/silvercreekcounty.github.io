@@ -44,7 +44,7 @@ ul {
     font-size: 25px;
     color: green;
     font-weight: 450;
-    position: fixed;
+    position: absolute;
     margin-left: 3%;
     top:-.7%
 }
