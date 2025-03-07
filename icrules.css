@@ -1,8 +1,6 @@
 body {
-  background-image: url(images/14thanddonna.jpg);
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat; 
-  background-size: cover;
-  opacity: 200%;
+    background-image: url(images/background.png);
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    opacity: 200%;
 }
