@@ -1,30 +1,3 @@
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: right;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  /* Change the color of links on hover */
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-
-    /* Add a color to the active/current link */
-  .topnav a.active {
-      background-color: #04AA6D;
-      color: white;
-  }
-
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
   body {
     background-image: url(images/14thanddonna.jpg);
     height: 500px;
@@ -32,24 +5,4 @@
     background-repeat: no-repeat; 
     background-size: cover;
     opacity: 200%;
-  }
-
-  .season1 {
-    width: auto;
-  }
-
-  .season1 img{
-    float: right;
-    margin-left: 20%;
-    width: auto;
-    height: auto;
-  }
-
-  .episodes {
-    height: 0px;
-    width: 600000px;
-    background: blue;
-    font-size: 18px;
-    color: #FFF;
-    text-align: Left;
   }
