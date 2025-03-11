@@ -69,3 +69,7 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.description {
+  position:center;
+}
