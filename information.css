@@ -73,5 +73,6 @@ li.dropdown {
 .description {
   text-align: center;
   color: Green;
-  font-size: 25px;
+  font-size: 45px;
+    font-weight: bold;
 }
