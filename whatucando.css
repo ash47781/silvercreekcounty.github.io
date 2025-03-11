@@ -83,3 +83,9 @@ li.dropdown {
     color: white;
     background-color: green;
 }
+
+.nutshell {
+    text-align:center;
+    color: Yellow;
+    font-size: 25px;
+}
