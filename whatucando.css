@@ -69,3 +69,10 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.overall {
+    text-align: center;
+    font-size: 45px;
+    font-weight:bold;
+    color: Green;
+}
