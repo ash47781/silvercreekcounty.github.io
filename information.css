@@ -71,5 +71,7 @@ li.dropdown {
 }
 
 .description {
-  position:center;
+  text-align: center;
+  color: Green;
+  font-size: 25px;
 }
