@@ -80,5 +80,6 @@ li.dropdown {
 .overall {
     text-align: center;
     font-size: 25px;
-    color: Green;
+    color: white;
+    background-color: green;
 }
