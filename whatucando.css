@@ -76,3 +76,9 @@ li.dropdown {
     font-weight:bold;
     color: Green;
 }
+
+.overall {
+    text-align: center;
+    font-size: 25px;
+    color: Green;
+}
