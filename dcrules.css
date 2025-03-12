@@ -69,3 +69,18 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.ruletype {
+    color: green;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    background-color: black;
+}
+
+.rules {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    background-color: green;
+}
