@@ -75,4 +75,12 @@ li.dropdown {
     font-size: 45px;
     font-weight: bold;
     color: Green;
+    background-color: black;
+}
+
+.guidelines {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    background-color: green;
 }
